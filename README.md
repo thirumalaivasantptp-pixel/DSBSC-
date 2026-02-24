@@ -74,6 +74,7 @@ Output Graph
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b56dd6d4-5954-4e5b-95d0-1045180aefa2" />
 
 Tablular Column
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/6af3b2dc-452a-40f1-8635-c871ff77fcb2" />
 
 
 Result
